@@ -3,7 +3,7 @@ i=0;k_10=[];halfmaraton=[];maraton=[];ultra=[]
 #runner_list=list(map(lambda x : x.strip(),input().split(',')))
 runners_list=input('Enter your name: ').split(',')
 teams_list=input('Enter your team :').split('*')
-print("hello")
+print("ok")
 def strip(x):
     x=[i.strip() for i in x]
     return x
